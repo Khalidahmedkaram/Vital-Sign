@@ -1,5 +1,5 @@
 # Vital-Sign
-This project aims to check the person healthy by measuring his Body(Heart Rate,Temperature,Humidity )
+This project aims to check the person healthy by measuring his Body(Heart Rate,Temperature,Humidity ) Using Arduino
 Requirement
 *Hardware
 The sensor required Pulse Sensor
